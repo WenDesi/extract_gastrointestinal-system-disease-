@@ -20,13 +20,16 @@ for owl_Class in owl_Classes:
     doid = url[url.index('_')+1:]
 
     if doid == '77':
+        print type(owl_Class)
+        print owl_Class.values
+
         sub_classes = owl_Class.findall('rdfs:subClassOf',root.nsmap)
 
-        for sub_class in sub_classes:
-            print sub_class.attrib
-            print '{'+root.nsmap['rdf']+'}resource'
-            sub_url = sub_class.attrib['{'+root.nsmap['rdf']+'}resource']
-            print sub_url
+        # for sub_class in sub_classes:
+        #     print sub_class.attrib
+        #     print '{'+root.nsmap['rdf']+'}resource'
+        #     sub_url = sub_class.attrib['{'+root.nsmap['rdf']+'}resource']
+        #     print sub_url
 
 
 
