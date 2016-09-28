@@ -20,12 +20,19 @@ def get_subclass_of_parent(owl_Classes,root,parent_id):
         for sub_class in sub_classes:
 
             sub_url = sub_class.attrib['{'+root.nsmap['rdf']+'}resource']
-            sub_doid = url[url.index('_')+1:]
+            sub_doid = sub_url[sub_url.index('_')+1:]
 
             if sub_doid == parent_id:
                 childrens.append(doid)
 
     return childrens
+
+def write_file(filepath,llist):
+    file_object = open(filepath,'w')
+
+    for ele in llist:
+        file_object.write(ele+'\r\n')
+    file_object.close()
 
 if __name__ == '__main__':
 
@@ -59,7 +66,11 @@ if __name__ == '__main__':
 
     results = set(results)
     print len(results)
+    print results
 
+
+    id_filepaht = 'ids.txt'
+    write_file(id_filepaht,results)
 
 
 
