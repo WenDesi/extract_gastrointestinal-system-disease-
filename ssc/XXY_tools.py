@@ -7,7 +7,6 @@ import codecs
 import urllib2
 from bs4 import BeautifulSoup
 from pyquery import PyQuery as pq
-import DBconnector
 import time
 
 
@@ -164,7 +163,7 @@ class XXY_translator(object):
                 i = i[:-2]
                 # print i
                 spts = i.split(',')
-                db = DBconnector.DBconnector()
+
                 for j in spts:
                     # print j
                     en = ''
@@ -193,9 +192,6 @@ class XXY_translator(object):
         finally:
             file_obj.close()
 
-
-
-
 # trans.translateWord('感冒')
 
 # wordList = ["卵巢肿瘤","卵巢囊肿","卵巢小囊肿","卵巢占","卵巢包块","子宫内膜息肉","子宫内膜增厚","宫腔占位","子宫内膜增生","子宫内膜占位","宫腔积液","子宫脱垂","子宫内膜厚","子宫内膜回声不均","宫腔积血","子宫内膜囊肿","子宫息肉","子宫平滑肌瘤","子宫内液性占位","子宫增大","子宫内膜病变","子宫内膜简单增生","子宫粘膜下肌瘤","子宫内膜回声占位","子宫脱出"]
@@ -206,7 +202,7 @@ class XXY_translator(object):
 # trans.getSymptoms()
 
 
-trans = XXY_translator()
-# trans.getSymptoms()
-trans.getSymptomsFromCSV('.\data\\merge.csv')
-# trans.translateWord('关节痛')
+# trans = XXY_translator()
+# # trans.getSymptoms()
+# trans.getSymptomsFromCSV('.\data\\merge.csv')
+# # trans.translateWord('关节痛')
