@@ -79,12 +79,12 @@ class YMT(object):
         if '您的访问过于频繁' in html:
             return -1
 
-        return self.dict3(html)
+        return self.dict2(html)
 
 
 if __name__ == '__main__':
     ymt = YMT()
-    word = 'esophageal diverticulosis'
+    word = 'intestinal infectious disease'
     print ymt.get_word_translate(word)
 
 
