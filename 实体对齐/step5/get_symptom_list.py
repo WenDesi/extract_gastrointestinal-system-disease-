@@ -19,29 +19,21 @@ def write_csv(filepath,llist):
         writer.writerow(line)
 
 if __name__ == '__main__':
-    zlz_origin_filepath = 'zlz_xianyangailv.csv'
-    fomate_zlz_filepath = 'disease_symptom.csv'
+    zlz_origin_filepath = 'zlz_align.csv'
+    fomate_zlz_filepath = 'symptom.csv'
 
     dict = {}
     lines = read_csv(zlz_origin_filepath)
-    lines = map(lambda x:[x[0],x[1]],lines)
+    lines = map(lambda x:x[2:],lines)
 
     for line in lines:
-        key = line[0]
-        val = line[1]
-
-        if key not in dict:
-            dict[key] = [val]
-        else:
-            dict[key].append(val)
+        for symptom in line:
+            dict[symptom] = 1
 
     new_lines = list(dict)
     result = []
     for line in new_lines:
-        print type(line)
-        new_line = [line]
-        new_line.extend(dict[line])
-        result.append(new_line)
+        result.append([line])
 
 
     write_csv(fomate_zlz_filepath,result)
