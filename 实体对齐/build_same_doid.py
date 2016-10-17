@@ -41,15 +41,15 @@ if __name__ == '__main__':
             zh_dict[zh] = id
 
     # 读入对齐实体列表并找到doid
-    same_filepath = 'same_entity.csv'
+    same_filepath = 'zlz_suibianba.csv'
     same_list = read_csv(same_filepath)
     for i in xrange(len(same_list)):
-        id = zh_dict[same_list[i][2]]
+        id = zh_dict[same_list[i][1]]
         same_list[i][0] = id
 
 
     # 结果写入
-    write_csv('same_entity_with_doid.csv',same_list)
+    write_csv('zlz_same_entity_with_doid.csv',same_list)
 
 
 
