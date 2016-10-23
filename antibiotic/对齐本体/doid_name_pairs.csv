@@ -1,0 +1,436 @@
+0050012,chikungunya
+0050025,human granulocytic anaplasmosis
+0050026,human monocytic ehrlichiosis
+0050035,African tick-bite fever
+0050041,Astrakhan spotted fever
+0050042,Indian tick typhus
+0050043,Israeli tick typhus
+0050046,Far Eastern spotted fever
+0050047,Flinders Island spotted fever
+0050050,Japanese spotted fever
+0050051,Rickettsia parkeri spotted fever
+0050052,Rocky Mountain spotted fever
+0050059,oropharyngeal anthrax
+0050061,erysipeloid
+0050068,pestis minor
+0050072,adiaspiromycosis
+0050073,invasive aspergillosis
+0050096,tinea barbae
+0050097,ectothrix infectious disease
+0050105,endothrix infectious disease
+0050116,tinea imbricata
+0050117,disease by infectious agent
+0050118,La Crosse encephalitis
+0050125,dengue shock syndrome
+0050133,superficial mycosis
+0050134,cutaneous mycosis
+0050135,subcutaneous mycosis
+0050136,systemic mycosis
+0050141,intestinal botulism
+0050143,asymptomatic dengue
+0050150,Pontiac fever
+0050153,pulmonary aspergilloma
+0050160,inhalation anthrax
+0050166,tuberculous salpingitis
+0050174,Kunjin encephalitis
+0050175,tick-borne encephalitis
+0050179,Powassan encephalitis
+0050194,Argentine hemorrhagic fever
+0050195,Bolivian hemorrhagic fever
+0050196,Venezuelan hemorrhagic fever
+0050197,Brazilian hemorrhagic fever
+0050198,Chapare hemorrhagic fever
+0050199,Whitewater Arroyo hemorrhagic fever
+0050200,Korean hemorrhagic fever
+0050201,nephropathia epidemica
+0050202,lujo hemorrhagic fever
+0050211,swine influenza
+0050218,polycystic echinococcosis
+0050242,primary amebic meningoencephalitis
+0050246,granulomatous amebic encephalitis
+0050250,philophthalmiasis
+0050251,coenurosis
+0050253,mesocestoidiasis
+0050254,acanthocephaliasis
+0050256,angiostrongyliasis
+0050259,baylisascariasis
+0050260,dioctophymiasis
+0050261,thelaziasis
+0050266,tungiasis
+0050268,ophthalmomyiasis
+0050278,basidiobolomycosis
+0050279,conidiobolomycosis
+0050288,penicilliosis
+0050289,fusariosis
+0050290,trichosporonosis
+0050291,parasitic Ichthyosporea infectious disease
+0050292,primary systemic mycosis
+0050308,Alkhurma hemorrhagic fever
+0050338,primary bacterial infectious disease
+0050339,commensal bacterial infectious disease
+0050340,opportunistic bacterial infectious disease
+0050352,foodborne botulism
+0050353,wound botulism
+0050354,infant botulism
+0050382,glandular tularemia
+0050383,typhoidal tularemia
+0050398,Carrion&apos;s disease
+0050456,Buruli ulcer disease
+0050480,epidemic typhus
+0050481,endemic typhus
+0050484,aneruptive fever
+0050485,sennetsu fever
+0050488,early congenital syphilis
+0050490,parenchymatous neurosyphilis
+0050491,meningovascular neurosyphilis
+0050495,exanthema subitum
+0050508,variola major
+0050513,spinal polio
+0050514,bulbospinal polio
+0050515,paralytic poliomyelitis
+0050516,O&apos;nyong&apos;nyong fever
+0050517,Barmah Forest virus disease
+0050518,Ross River fever
+0050521,Oropouche fever
+0050522,Balkan hemorrhagic fever
+0050584,gummatous syphilis
+0050596,taeniasis
+0050597,intestinal schistosomiasis
+0050598,extrapulmonary tuberculosis
+0050599,abdominal tuberculosis
+0060345,bacillary angiomatosis
+0060478,Zika fever
+0060570,cardiac tuberculosis
+0080161,cutaneous candidiasis
+10027,tabes dorsalis
+10035,asymptomatic neurosyphilis
+10039,late congenital syphilis
+10074,hymenolepiasis
+10075,diphyllobothriasis
+10079,cysticercosis
+10080,sparganosis
+10112,sleeping sickness
+10113,trypanosomiasis
+1022,pinta disease
+1023,borderline leprosy
+1024,leprosy
+10242,ehrlichiosis
+1025,tuberculoid leprosy
+10250,louping ill
+10264,mumps
+10371,yaws
+10398,pneumonic plague
+104,bacterial infectious disease
+10457,Legionnaires&apos; disease
+10458,legionellosis
+10567,late yaws
+10568,early yaws
+106,pleural tuberculosis
+10699,paragonimiasis
+10718,giardiasis
+10773,bubonic plague
+10784,Queensland tick typhus
+1079,setariasis
+1080,filariasis
+1081,mansonelliasis
+1082,dirofilariasis
+10841,Eastern equine encephalitis
+10842,Murray Valley encephalitis
+10843,Western equine encephalitis
+10844,Japanese encephalitis
+10845,St. Louis encephalitis
+10881,"hand, foot and mouth disease"
+10882,epidemic pleurodynia
+10883,herpangina
+10887,lepromatous leprosy
+10921,Siberian tick typhus
+10955,strongyloidiasis
+11055,pasteurellosis
+11076,Brucella suis brucellosis
+11077,brucellosis
+11079,leech infestation
+11080,myiasis
+11100,Q fever
+11101,trench fever
+11102,bartonellosis
+11103,rickettsialpox
+11104,spotted fever
+1116,pertussis
+11165,common wart
+11168,anogenital venereal wart
+11186,allescheriosis
+11227,acute hemorrhagic conjunctivitis
+11254,Brill-Zinsser disease
+11256,typhus
+11258,cat-scratch disease
+11260,rabies
+11262,ornithosis
+11263,chlamydia
+11265,trachoma
+11266,hemorrhagic fever with renal syndrome
+11285,tick paralysis
+11302,cercarial dermatitis
+11315,African histoplasmosis
+11320,Kyasanur forest disease
+11336,rhinoscleroma
+11337,Lemierre&apos;s syndrome
+11338,tetanus
+11339,pneumocystosis
+11360,Phlebotomus fever
+11379,gnathomiasis
+11405,diphtheria
+11573,listeriosis
+11678,onchocerciasis
+11729,Lyme disease
+11750,Bordetella parapertussis whooping cough
+11851,indeterminate leprosy
+11917,tinea cruris
+11976,botulism
+11990,ulceroglandular tularemia
+12053,cryptococcosis
+12096,sodoku disease
+12140,Chagas disease
+12148,alveolar echinococcosis
+12155,lymphocytic choriomeningitis
+1217,fascioloidiasis
+12179,tinea corporis
+1218,echinostomiasis
+1219,dicrocoeliasis
+12205,dengue disease
+12206,dengue hemorrhagic fever
+12211,filarial elephantiasis
+12287,Crimean-Congo hemorrhagic fever
+12365,malaria
+12385,shigellosis
+12386,balantidiasis
+12403,tinea pedis
+12474,capillariasis
+1251,tuberculous epididymitis
+1252,trichuriasis
+1254,trichostrongylosis
+12549,hepatitis A
+1255,trichostrongyloidiasis
+12662,paracoccidioidomycosis
+12663,blastomycosis
+12711,black piedra
+1273,respiratory syncytial virus infectious disease
+12750,cyclosporiasis
+12841,ancylostomiasis
+12919,Plasmodium ovale malaria
+12926,hypodermyiasis
+12927,screw worm infectious disease
+12978,Plasmodium vivax malaria
+13026,lobomycosis
+13034,relapsing fever
+13035,louse-borne relapsing fever
+13036,tick-borne relapsing fever
+13074,tinea unguium
+13078,eumycotic mycetoma
+13146,esophageal candidiasis
+13166,allergic bronchopulmonary aspergillosis
+13226,oculoglandular tularemia
+13238,Haverhill fever
+13258,typhoid fever
+1328,Rift Valley fever
+13282,intestinal tuberculosis
+13336,congenital toxoplasmosis
+13368,tinea profunda
+13369,tinea manuum
+13371,scrub typhus
+13386,gastrointestinal anthrax
+13431,bejel
+13444,glanders
+13450,coccidioidomycosis
+13521,tetanus neonatorum
+13523,loiasis
+13564,aspergillosis
+13565,neuroaspergillosis
+13622,campylobacteriosis
+13722,neuroschistosomiasis
+13760,Pthirus pubis infestation
+13767,clonorchiasis
+13768,opisthorchiasis
+13775,plantar wart
+13778,chancroid
+13800,inclusion conjunctivitis
+13801,pharyngoconjunctival fever
+13819,lymphogranuloma venereum
+13902,white piedra
+1394,urinary schistosomiasis
+1395,schistosomiasis
+1398,parasitic infectious disease
+14019,Brucella canis brucellosis
+14049,phaeohyphomycosis
+14067,Plasmodium falciparum malaria
+14068,blackwater fever
+14069,cerebral malaria
+14095,boutonneuse fever
+14115,toxic shock syndrome
+14239,gastrointestinal tularemia
+14262,oral candidiasis
+14324,Plasmodium malariae malaria
+14325,mixed malaria
+14374,norwegian scabies
+14418,dracunculiasis
+14422,dipetalonemiasis
+14456,Brucella melitensis brucellosis
+14457,Brucella abortus brucellosis
+14472,hantavirus pulmonary syndrome
+14484,sporotrichosis
+14512,candidal paronychia
+1495,cystic echinococcosis
+1496,echinococcosis
+1498,cholera
+1508,candidiasis
+1562,chromoblastomycosis
+1563,dermatomycosis
+1564,fungal infectious disease
+1638,central nervous system tuberculosis
+1639,skeletal tuberculosis
+1731,histoplasmosis
+1733,cryptosporidiosis
+1759,American histoplasmosis
+1883,hepatitis C
+1947,trichomoniasis
+2043,hepatitis B
+2047,hepatitis D
+2058,chronic mucocutaneous candidiasis
+2112,cystoisosporiasis
+2113,coccidiosis
+2122,pneumonic tularemia
+2123,tularemia
+2148,tuberculous oophoritis
+2149,urogenital tuberculosis
+2272,vulvovaginal candidiasis
+2297,leptospirosis
+2312,nocardiosis
+2365,West Nile encephalitis
+2366,West Nile fever
+2409,rhinosporidiosis
+2473,opportunistic mycosis
+2755,Mycobacterium avium complex disease
+2789,parasitic protozoa infectious disease
+2790,necatoriasis
+2832,geotrichosis
+2929,Newcastle disease
+2934,aleutian mink disease
+2945,severe acute respiratory syndrome
+2957,pulmonary tuberculosis
+3055,paratyphoid fever
+3107,toxascariasis
+3108,ascaridiasis
+321,tropical spastic paraparesis
+3292,monkeypox
+3298,vaccinia
+3332,haemonchiasis
+3481,septicemic plague
+3482,plague
+3733,theileriasis
+3983,oesophagostomiasis
+3985,ostertagiasis
+399,tuberculosis
+401,multidrug-resistant tuberculosis
+402,oral tuberculosis
+404,gastrointestinal tuberculosis
+407,hepatic tuberculosis
+4109,tick infestation
+4110,parasitic ectoparasitic infectious disease
+4156,primary syphilis
+4157,secondary syphilis
+4166,syphilis
+4270,encephalitozoonosis
+4271,microsporidiosis
+4325,Ebola hemorrhagic fever
+4327,Marburg hemorrhagic fever
+4336,tinea favosa
+4337,tinea capitis
+4411,hepatitis E
+4492,avian influenza
+456,ascariasis
+4885,Colorado tick fever
+4889,lymph node tuberculosis
+4952,postpoliomyelitis syndrome
+4953,poliomyelitis
+4962,pericardial tuberculosis
+4974,actinobacillosis
+4986,nonparalytic poliomyelitis
+5052,melioidosis
+5154,borna disease
+526,human immunodeficiency virus infectious disease
+5362,focal epithelial hyperplasia
+5501,Pediculus humanus capitis infestation
+5502,lice infestation
+5513,Pediculus humanus corporis infestation
+635,acquired immunodeficiency syndrome
+643,progressive multifocal leukoencephalopathy
+7033,anisakiasis
+7332,esophageal tuberculosis
+7426,cutaneous anthrax
+7427,anthrax disease
+7457,enterobiasis
+754,bladder tuberculosis
+7551,gonorrhea
+7894,mite infestation
+8200,tertiary syphilis
+827,ureter tuberculosis
+8295,scabies
+8399,trombiculiasis
+8469,influenza
+8478,actinomycosis
+8484,maple bark strippers&apos; lung
+8536,herpes zoster
+8566,herpes simplex
+8568,infectious mononucleosis
+8607,herpetic whitlow
+8622,measles
+8659,chickenpox
+8704,genital herpes
+8729,milker&apos;s nodule
+8736,smallpox
+8771,contagious pustular dermatitis
+8781,rubella
+882,heterophyiasis
+883,parasitic helminthiasis infectious disease
+884,metagonimiasis
+885,fascioliasis
+8867,molluscum contagiosum
+888,fasciolopsiasis
+8912,tinea nigra
+8913,dermatophytosis
+8956,cowpox
+8970,subacute sclerosing panencephalitis
+9060,pityriasis versicolor
+9063,Ritter&apos;s disease
+9065,leishmaniasis
+9111,cutaneous leishmaniasis
+9113,granuloma inguinale
+9123,eczema herpeticum
+9146,visceral leishmaniasis
+9153,variola minor
+9155,mucocutaneous leishmaniasis
+9159,gas gangrene
+9181,amebiasis
+9210,geniculate herpes zoster
+9305,splenic tuberculosis
+931,monieziasis
+934,viral infectious disease
+946,dientamoebiasis
+9531,latent syphilis
+9537,Lassa fever
+9577,neonatal candidiasis
+9584,Venezuelan equine encephalitis
+96,staphyloenterotoxemia
+9640,sarcocystosis
+9643,babesiosis
+9682,yellow fever
+9733,renal tuberculosis
+9784,trichinosis
+9786,bulbar polio
+9790,toxocariasis
+9801,tuberculous peritonitis
+9856,congenital syphilis
+9861,miliary tuberculosis
+9880,cardiovascular syphilis
+992,Omsk hemorrhagic fever
+9965,toxoplasmosis
+9988,tertiary neurosyphilis

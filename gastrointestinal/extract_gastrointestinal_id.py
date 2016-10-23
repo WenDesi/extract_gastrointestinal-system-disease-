@@ -3,7 +3,7 @@
 
 from lxml import etree
 
-full_ontology_filepath = u'E://实验室/知识图谱/暑假/疾病本体/解析肠道本体/ontology/doid.owl'
+full_ontology_filepath = 'doid.owl'
 
 
 
@@ -43,8 +43,8 @@ if __name__ == '__main__':
 
 
     clawed_id = []
-    unclaw_id = ['77']
-    results = ['77']
+    unclaw_id = ['0050117']
+    results = ['0050117']
 
     count = 0
     while len(unclaw_id) > 0:
