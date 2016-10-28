@@ -1,436 +1,210 @@
-1,50012,chikungunya,Chikungunya,1
-1,50026,human monocytic ehrlichiosis,Human monocytic ehrlichiosis,1
-1,50194,Argentine hemorrhagic fever,Argentine hemorrhagic fever,1
-1,50195,Bolivian hemorrhagic fever,Bolivian hemorrhagic fever,1
-1,50196,Venezuelan hemorrhagic fever,Venezuelan hemorrhagic fever,1
-1,50256,angiostrongyliasis,Angiostrongyliasis,1
-1,50480,epidemic typhus,Epidemic typhus,1
-1,50596,taeniasis,Taeniasis,1
-1,10074,hymenolepiasis,Hymenolepiasis,1
-1,10075,diphyllobothriasis,Diphyllobothriasis,1
-1,10079,cysticercosis,Cysticercosis,1
-1,1024,leprosy,Leprosy,1
-1,10242,ehrlichiosis,Ehrlichiosis,1
-1,10264,mumps,Mumps,1
-1,10699,paragonimiasis,Paragonimiasis,1
-1,10718,giardiasis,Giardiasis,1
-1,10773,bubonic plague,Bubonic plague,1
-1,1080,filariasis,Filariasis,1
-1,10955,strongyloidiasis,Strongyloidiasis,1
-1,11055,pasteurellosis,Pasteurellosis,1
-1,11077,brucellosis,Brucellosis,1
-1,11080,myiasis,Myiasis,1
-1,11100,Q fever,Q fever,1
-1,11102,bartonellosis,Bartonellosis,1
-1,11103,rickettsialpox,Rickettsialpox,1
-1,11258,cat-scratch disease,Cat-scratch disease,1
-1,11260,rabies,Rabies,1
-1,11263,chlamydia,Chlamydia,1
-1,11265,trachoma,Trachoma,1
-1,11405,diphtheria,Diphtheria,1
-1,11573,listeriosis,Listeriosis,1
-1,12053,cryptococcosis,Cryptococcosis,1
-1,12155,lymphocytic choriomeningitis,Lymphocytic choriomeningitis,1
-1,12365,malaria,Malaria,1
-1,12386,balantidiasis,Balantidiasis,1
-1,12549,hepatitis A,Hepatitis A,1
-1,12663,blastomycosis,Blastomycosis,1
-1,12711,black piedra,Black piedra,1
-1,13034,relapsing fever,Relapsing fever,1
-1,13258,typhoid fever,Typhoid fever,1
-1,13444,glanders,Glanders,1
-1,13450,coccidioidomycosis,Coccidioidomycosis,1
-1,13564,aspergillosis,Aspergillosis,1
-1,13622,campylobacteriosis,Campylobacteriosis,1
-1,13768,opisthorchiasis,Opisthorchiasis,1
-1,13778,chancroid,Chancroid,1
-1,1395,schistosomiasis,Schistosomiasis,1
-1,14418,dracunculiasis,Dracunculiasis,1
-1,14484,sporotrichosis,Sporotrichosis,1
-1,1496,echinococcosis,Echinococcosis,1
-1,1498,cholera,Cholera,1
-1,1562,chromoblastomycosis,Chromoblastomycosis,1
-1,1731,histoplasmosis,Histoplasmosis,1
-1,1733,cryptosporidiosis,Cryptosporidiosis,1
-1,1883,hepatitis C,Hepatitis C,1
-1,1947,trichomoniasis,Trichomoniasis,1
-1,2043,hepatitis B,Hepatitis B,1
-1,2047,hepatitis D,Hepatitis D,1
-1,2123,tularemia,Tularemia,1
-1,2297,leptospirosis,Leptospirosis,1
-1,2312,nocardiosis,Nocardiosis,1
-1,2366,West Nile fever,West Nile Fever,1
-1,2409,rhinosporidiosis,Rhinosporidiosis,1
-1,3292,monkeypox,Monkeypox,1
-1,3482,plague,Plague,1
-1,399,tuberculosis,Tuberculosis,1
-1,4166,syphilis,Syphilis,1
-1,4271,microsporidiosis,Microsporidiosis,1
-1,4325,Ebola hemorrhagic fever,Ebola hemorrhagic fever,1
-1,4411,hepatitis E,Hepatitis E,1
-1,456,ascariasis,Ascariasis,1
-1,4953,poliomyelitis,Poliomyelitis,1
-1,643,progressive multifocal leukoencephalopathy,Progressive multifocal leukoencephalopathy,1
-1,7033,anisakiasis,Anisakiasis,1
-1,7551,gonorrhea,Gonorrhea,1
-1,8295,scabies,Scabies,1
-1,8478,actinomycosis,Actinomycosis,1
-1,8566,herpes simplex,Herpes simplex,1
-1,8622,measles,Measles,1
-1,8659,chickenpox,Chickenpox,1
-1,8781,rubella,Rubella,1
-1,884,metagonimiasis,Metagonimiasis,1
-1,888,fasciolopsiasis,Fasciolopsiasis,1
-1,8912,tinea nigra,Tinea nigra,1
-1,8970,subacute sclerosing panencephalitis,Subacute sclerosing panencephalitis,1
-1,9065,leishmaniasis,Leishmaniasis,1
-1,9181,amebiasis,Amebiasis,1
-1,946,dientamoebiasis,Dientamoebiasis,1
-1,9537,Lassa fever,Lassa fever,1
-1,9643,babesiosis,Babesiosis,1
-1,9682,yellow fever,Yellow fever,1
-1,9784,trichinosis,Trichinosis,1
-1,9965,toxoplasmosis,Toxoplasmosis,1
-0.916666667,885,fascioliasis,Fasciolasis,0
-0.866666667,50481,endemic typhus,Epidemic typhus,0
-0.866666667,1217,fascioloidiasis,Fasciolopsiasis,0
-0.851851852,50197,Brazilian hemorrhagic fever,Bolivian hemorrhagic fever,0
-0.846153846,50522,Balkan hemorrhagic fever,Bolivian hemorrhagic fever,0
-0.840909091,11266,hemorrhagic fever with renal syndrome,Hemorrhagic fever with renal syndrome (HFRS),0
-0.837837838,50025,human granulocytic anaplasmosis,Human granulocytic anaplasmosis (HGA),0
-0.833333333,3108,ascaridiasis,Ascariasis,0
-0.829268293,50242,primary amebic meningoencephalitis,Primary amoebic meningoencephalitis (PAM),0
-0.829268293,635,acquired immunodeficiency syndrome,AIDS (Acquired immunodeficiency syndrome),0
-0.828571429,14472,hantavirus pulmonary syndrome,Hantavirus Pulmonary Syndrome (HPS),0
-0.825,2945,severe acute respiratory syndrome,SARS (Severe Acute Respiratory Syndrome),0
-0.818181818,12662,paracoccidioidomycosis,Coccidioidomycosis,0
-0.815789474,12287,Crimean-Congo hemorrhagic fever,Crimean-Congo hemorrhagic fever (CCHF),0
-0.807692308,50200,Korean hemorrhagic fever,Bolivian hemorrhagic fever,0
-0.807692308,8867,molluscum contagiosum,Molluscum contagiosum (MC),0
-0.8,50052,Rocky Mountain spotted fever,Rocky Mountain spotted fever (RMSF),0
-0.8,10881,"hand, foot and mouth disease","Hand, foot and mouth disease (HFMD)",0
-0.8,11379,gnathomiasis,Gnathostomiasis,0
-0.791666667,12206,dengue hemorrhagic fever,Ebola hemorrhagic fever,0
-0.782608696,50202,lujo hemorrhagic fever,Ebola hemorrhagic fever,0
-0.782608696,1273,respiratory syncytial virus infectious disease,Respiratory syncytial virus infection,0
-0.782608696,992,Omsk hemorrhagic fever,Ebola hemorrhagic fever,0
-0.769230769,3107,toxascariasis,Ascariasis,0
-0.764705882,3055,paratyphoid fever,Typhoid fever,0
-0.76,50198,Chapare hemorrhagic fever,Ebola hemorrhagic fever,0
-0.76,4327,Marburg hemorrhagic fever,Ebola hemorrhagic fever,0
-0.76,4885,Colorado tick fever,Colorado tick fever (CTF),0
-0.75,10398,pneumonic plague,Bubonic plague,0
-0.75,13722,neuroschistosomiasis,Schistosomiasis,0
-0.739130435,1328,Rift Valley fever,Rift Valley fever (RVF),0
-0.733333333,1218,echinostomiasis,Schistosomiasis,0
-0.733333333,12841,ancylostomiasis,Gnathostomiasis,0
-0.730769231,50308,Alkhurma hemorrhagic fever,Ebola hemorrhagic fever,0
-0.727272727,50398,Carrion&apos;s disease,Carrion's disease,0
-0.727272727,1255,trichostrongyloidiasis,Strongyloidiasis,0
-0.727272727,13026,lobomycosis,Zygomycosis,0
-0.727272727,2113,coccidiosis,Nocardiosis,0
-0.722222222,50279,conidiobolomycosis,Coccidioidomycosis,0
-0.722222222,13565,neuroaspergillosis,Aspergillosis,0
-0.714285714,1082,dirofilariasis,Filariasis,0
-0.714285714,1252,trichuriasis,Trichomoniasis,0
-0.714285714,12750,cyclosporiasis,Isosporiasis,0
-0.714285714,13523,loiasis,Myiasis,0
-0.714285714,2832,geotrichosis,Sporotrichosis,0
-0.714285714,9640,sarcocystosis,Blastocystosis,0
-0.705882353,2112,cystoisosporiasis,Isosporiasis,0
-0.705882353,402,oral tuberculosis,Tuberculosis,0
-0.7,50289,fusariosis,Filariasis,0
-0.7,1079,setariasis,Ascariasis,0
-0.692307692,10458,legionellosis,Bartonellosis,0
-0.692307692,12474,capillariasis,Filariasis,0
-0.692307692,1508,candidiasis,Balantidiasis,0
-0.6875,14262,oral candidiasis,Balantidiasis,0
-0.6875,14422,dipetalonemiasis,Dientamoebiasis,0
-0.6875,4974,actinobacillosis,Actinomycosis,0
-0.666666667,50266,tungiasis,Taeniasis,0
-0.666666667,1495,cystic echinococcosis,Echinococcosis,0
-0.666666667,2790,necatoriasis,Ascariasis,0
-0.666666667,3733,theileriasis,Filariasis,0
-0.666666667,7457,enterobiasis,Dientamoebiasis,0
-0.666666667,9733,renal tuberculosis,Tuberculosis,0
-0.666666667,9790,toxocariasis,Ascariasis,0
-0.652173913,1394,urinary schistosomiasis,Schistosomiasis,0
-0.647058824,2929,Newcastle disease,Kawasaki disease,0
-0.642857143,1081,mansonelliasis,Bartonellosis,0
-0.642857143,11186,allescheriosis,Listeriosis,0
-0.642857143,11339,pneumocystosis,Blastocystosis,0
-0.642857143,1563,dermatomycosis,Blastomycosis,0
-0.642857143,8399,trombiculiasis,Dracunculiasis,0
-0.636363636,50261,thelaziasis,Filariasis,0
-0.636363636,60478,Zika fever,Lassa fever,0
-0.636363636,11315,African histoplasmosis,Histoplasmosis,0
-0.636363636,12385,shigellosis,Brucellosis,0
-0.631578947,827,ureter tuberculosis,Tuberculosis,0
-0.625,50072,adiaspiromycosis,Actinomycosis,0
-0.625,50136,systemic mycosis,Cysticercosis,0
-0.625,50259,baylisascariasis,Ascariasis,0
-0.625,50290,trichosporonosis,Microsporidiosis,0
-0.625,50518,Ross River fever,West Nile Fever,0
-0.625,12140,Chagas disease,Kawasaki disease,0
-0.615384615,10080,sparganosis,Aspergillosis,0
-0.615384615,3332,haemonchiasis,Taeniasis,0
-0.611111111,50278,basidiobolomycosis,Coccidioidomycosis,0
-0.611111111,1254,trichostrongylosis,Angiostrongyliasis,0
-0.611111111,3983,oesophagostomiasis,Gnathostomiasis,0
-0.608695652,12148,alveolar echinococcosis,Echinococcosis,0
-0.608695652,1759,American histoplasmosis,Histoplasmosis,0
-0.6,50199,Whitewater Arroyo hemorrhagic fever,Venezuelan hemorrhagic fever,0
-0.6,50456,Buruli ulcer disease,Buruli ulcer,0
-0.6,60570,cardiac tuberculosis,Tuberculosis,0
-0.6,10113,trypanosomiasis,Schistosomiasis,0
-0.6,106,pleural tuberculosis,Tuberculosis,0
-0.6,1219,dicrocoeliasis,Dientamoebiasis,0
-0.6,13767,clonorchiasis,Opisthorchiasis,0
-0.6,407,hepatic tuberculosis,Tuberculosis,0
-0.6,754,bladder tuberculosis,Tuberculosis,0
-0.6,8469,influenza,Influenza (flu),0
-0.6,9305,splenic tuberculosis,Tuberculosis,0
-0.6,9861,miliary tuberculosis,Tuberculosis,0
-0.590909091,50073,invasive aspergillosis,Aspergillosis,0
-0.590909091,9146,visceral leishmaniasis,Leishmaniasis,0
-0.588235294,50134,cutaneous mycosis,Actinomycosis,0
-0.588235294,1022,pinta disease,Carrion's disease,0
-0.588235294,5154,borna disease,Carrion's disease,0
-0.583333333,50096,tinea barbae,Tinea nigra,0
-0.583333333,11101,trench fever,Dengue fever,0
-0.583333333,11262,ornithosis,Ehrlichiosis,0
-0.583333333,11917,tinea cruris,Tinea nigra,0
-0.583333333,12211,filarial elephantiasis,Lymphatic filariasis (Elephantiasis),0
-0.583333333,13902,white piedra,Black piedra,0
-0.583333333,4336,tinea favosa,Tinea nigra,0
-0.583333333,9210,geniculate herpes zoster,Shingles (Herpes zoster),0
-0.578947368,7427,anthrax disease,Cat-scratch disease,0
-0.576923077,50597,intestinal schistosomiasis,Schistosomiasis,0
-0.576923077,13036,tick-borne relapsing fever,Relapsing fever,0
-0.575757576,9113,granuloma inguinale,Granuloma inguinale (Donovanosis),1
-0.571428571,50485,sennetsu fever,Dengue fever,0
-0.571428571,10027,tabes dorsalis,Babesiosis,0
-0.571428571,11678,onchocerciasis,Nocardiosis,0
-0.571428571,12205,dengue disease,Dengue fever,0
-0.571428571,1639,skeletal tuberculosis,Tuberculosis,0
-0.571428571,8536,herpes zoster,Herpes simplex,0
-0.571428571,882,heterophyiasis,Hymenolepiasis,0
-0.571428571,931,monieziasis,Hymenolepiasis,0
-0.565217391,50515,paralytic poliomyelitis,Poliomyelitis,0
-0.565217391,2934,aleutian mink disease,Heartland virus disease,0
-0.565217391,9111,cutaneous leishmaniasis,Leishmaniasis,0
-0.564102564,11750,Bordetella parapertussis whooping cough,Pertussis (Whooping cough),0
-0.5625,50253,mesocestoidiasis,Isosporiasis,0
-0.5625,50268,ophthalmomyiasis,Gnathostomiasis,0
-0.5625,50484,aneruptive fever,Relapsing fever,0
-0.5625,12096,sodoku disease,Kawasaki disease,0
-0.5625,14068,blackwater fever,Lassa fever,0
-0.56,50218,polycystic echinococcosis,Echinococcosis,0
-0.555555556,50042,Indian tick typhus,Epidemic typhus,0
-0.555555556,50097,ectothrix infectious disease,Erythema infectiosum (Fifth disease),0
-0.555555556,50105,endothrix infectious disease,Erythema infectiosum (Fifth disease),0
-0.555555556,50260,dioctophymiasis,Angiostrongyliasis,0
-0.555555556,50517,Barmah Forest virus disease,Heartland virus disease,0
-0.555555556,13035,louse-borne relapsing fever,Relapsing fever,0
-0.55,50135,subcutaneous mycosis,Actinomycosis,0
-0.55,10921,Siberian tick typhus,Epidemic typhus,0
-0.55,9577,neonatal candidiasis,Balantidiasis,0
-0.545454545,50599,abdominal tuberculosis,Tuberculosis,0
-0.545454545,12403,tinea pedis,Tinea nigra,0
-0.545454545,2148,tuberculous oophoritis,Tuberculosis,0
-0.545454545,2957,pulmonary tuberculosis,Tuberculosis,0
-0.545454545,5052,melioidosis,Yersiniosis,0
-0.542857143,50118,La Crosse encephalitis,Subacute sclerosing panencephalitis,0
-0.542857143,10841,Eastern equine encephalitis,Subacute sclerosing panencephalitis,0
-0.542857143,10845,St. Louis encephalitis,Subacute sclerosing panencephalitis,0
-0.541666667,13336,congenital toxoplasmosis,Toxoplasmosis,0
-0.541666667,934,viral infectious disease,Heartland virus disease,0
-0.538461538,50150,Pontiac fever,Dengue fever,0
-0.538461538,50288,penicilliosis,Aspergillosis,0
-0.538461538,11104,spotted fever,Dengue fever,0
-0.538461538,13074,tinea unguium,Tinea nigra,0
-0.538461538,14325,mixed malaria,Malaria,0
-0.538461538,3985,ostertagiasis,Ascariasis,0
-0.538461538,4337,tinea capitis,Tinea nigra,0
-0.535714286,104,bacterial infectious disease,Bacterial pneumonia,0
-0.533333333,50116,tinea imbricata,Tinea nigra,0
-0.533333333,50521,Oropouche fever,Dengue fever,0
-0.533333333,13238,Haverhill fever,West Nile Fever,0
-0.533333333,9531,latent syphilis,Syphilis,0
-0.529411765,14049,phaeohyphomycosis,Actinomycosis,0
-0.529411765,14095,boutonneuse fever,Dengue fever,0
-0.529411765,3481,septicemic plague,Bubonic plague,0
-0.526315789,50043,Israeli tick typhus,Epidemic typhus,0
-0.526315789,50133,superficial mycosis,Chytridiomycosis,0
-0.526315789,1025,tuberculoid leprosy,Tuberculosis,0
-0.526315789,4270,encephalitozoonosis,Echinococcosis,0
-0.525,9060,pityriasis versicolor,Tinea versicolor (Pityriasis versicolor),0
-0.523809524,9063,Ritter&apos;s disease,Carrion's disease,0
-0.52173913,50166,tuberculous salpingitis,Tuberculosis,0
-0.52173913,11320,Kyasanur forest disease,Carrion's disease,0
-0.52173913,13282,intestinal tuberculosis,Tuberculosis,0
-0.52173913,2149,urogenital tuberculosis,Tuberculosis,0
-0.52173913,4889,lymph node tuberculosis,Tuberculosis,0
-0.52173913,7332,esophageal tuberculosis,Tuberculosis,0
-0.52173913,9801,tuberculous peritonitis,Tuberculosis,0
-0.52,13760,Pthirus pubis infestation,Rhinovirus infection,0
-0.52,1564,fungal infectious disease,Heartland virus disease,0
-0.514285714,10843,Western equine encephalitis,Subacute sclerosing panencephalitis,0
-0.514285714,9584,Venezuelan equine encephalitis,Subacute sclerosing panencephalitis,0
-0.513513514,5501,Pediculus humanus capitis infestation,Pediculosis capitis (Head lice),0
-0.510638298,526,human immunodeficiency virus infectious disease,Human parainfluenza virus infection,0
-0.5,50250,philophthalmiasis,Diphyllobothriasis,0
-0.5,50251,coenurosis,Chancroid,0
-0.5,50254,acanthocephaliasis,Gnathostomiasis,0
-0.5,50354,infant botulism,Botulism (and Infant botulism),0
-0.5,10784,Queensland tick typhus,Epidemic typhus,0
-0.5,1116,pertussis,Tuberculosis,0
-0.5,11256,typhus,Syphilis,0
-0.5,11729,Lyme disease,Kawasaki disease,0
-0.5,12179,tinea corporis,Tinea nigra,0
-0.5,1251,tuberculous epididymitis,Tuberculosis,0
-0.5,12926,hypodermyiasis,Chytridiomycosis,0
-0.5,13146,esophageal candidiasis,Balantidiasis,0
-0.5,13368,tinea profunda,Tinea nigra,0
-0.5,13369,tinea manuum,Tinea nigra,0
-0.5,13521,tetanus neonatorum,Tetanus (Lockjaw),0
-0.5,1398,parasitic infectious disease,Erythema infectiosum (Fifth disease),0
-0.5,2365,West Nile encephalitis,West Nile Fever,0
-0.5,4156,primary syphilis,Syphilis,0
-0.5,4952,postpoliomyelitis syndrome,Poliomyelitis,0
-0.5,4962,pericardial tuberculosis,Tuberculosis,0
-0.5,4986,nonparalytic poliomyelitis,Poliomyelitis,0
-0.5,5513,Pediculus humanus corporis infestation,Pediculosis corporis (Body lice),0
-0.486486486,10457,Legionnaires&apos; disease,Legionellosis (Legionnaires' disease),0
-0.485714286,50046,Far Eastern spotted fever,Rocky Mountain spotted fever (RMSF),0
-0.485714286,50175,tick-borne encephalitis,Subacute sclerosing panencephalitis,0
-0.485714286,50179,Powassan encephalitis,Subacute sclerosing panencephalitis,0
-0.485714286,10844,Japanese encephalitis,Subacute sclerosing panencephalitis,0
-0.482758621,80161,cutaneous candidiasis,Cutaneous larva migrans (CLM),0
-0.482758621,12927,screw worm infectious disease,Heartland virus disease,0
-0.481481481,9155,mucocutaneous leishmaniasis,Leishmaniasis,0
-0.476190476,11254,Brill-Zinsser disease,Carrion's disease,0
-0.476190476,2473,opportunistic mycosis,Chromoblastomycosis,0
-0.473684211,50382,glandular tularemia,Tularemia,0
-0.473684211,50383,typhoidal tularemia,Tularemia,0
-0.473684211,2122,pneumonic tularemia,Pneumonia,0
-0.473684211,4109,tick infestation,Rotavirus infection,0
-0.473684211,8913,dermatophytosis,Chromoblastomycosis,0
-0.472222222,50338,primary bacterial infectious disease,Acinetobacter infections,0
-0.470588235,11360,Phlebotomus fever,Dengue fever,0
-0.470588235,8200,tertiary syphilis,Syphilis,0
-0.470588235,8568,infectious mononucleosis,Epstein¨CBarr virus infectious mononucleosis (Mono),0
-0.46875,50495,exanthema subitum,Exanthem subitum (Sixth disease),0
-0.466666667,50141,intestinal botulism,Botulism (and Infant botulism),0
-0.466666667,13371,scrub typhus,Epidemic typhus,0
-0.461538462,11336,rhinoscleroma,Cholera,0
-0.458333333,2272,vulvovaginal candidiasis,Balantidiasis,0
-0.457142857,50041,Astrakhan spotted fever,Rocky Mountain spotted fever (RMSF),0
-0.457142857,50174,Kunjin encephalitis,Subacute sclerosing panencephalitis,0
-0.457142857,10842,Murray Valley encephalitis,Subacute sclerosing panencephalitis,0
-0.454545455,50050,Japanese spotted fever,West Nile Fever,0
-0.454545455,60345,bacillary angiomatosis,Bacterial vaginosis,0
-0.454545455,10883,herpangina,Hepatitis A,0
-0.45,10882,epidemic pleurodynia,Bacterial pneumonia,0
-0.45,11079,leech infestation,Prevotella infection,0
-0.45,7894,mite infestation,Prevotella infection,0
-0.448275862,7426,cutaneous anthrax,Cutaneous larva migrans (CLM),0
-0.447368421,50339,commensal bacterial infectious disease,Acinetobacter infections,0
-0.444444444,50584,gummatous syphilis,Syphilis,0
-0.444444444,50598,extrapulmonary tuberculosis,Tuberculosis,0
-0.444444444,11338,tetanus,Taeniasis,0
-0.444444444,4157,secondary syphilis,Syphilis,0
-0.444444444,5502,lice infestation,BK virus infection,0
-0.444444444,8736,smallpox,Smallpox (Variola),0
-0.444444444,8956,cowpox,Monkeypox,0
-0.44,11076,Brucella suis brucellosis,Brucellosis,0
-0.43902439,50246,granulomatous amebic encephalitis,Primary amoebic meningoencephalitis (PAM),0
-0.4375,11227,acute hemorrhagic conjunctivitis,Ebola hemorrhagic fever,0
-0.4375,11285,tick paralysis,Microsporidiosis,0
-0.4375,14069,cerebral malaria,Malaria,0
-0.4375,8607,herpetic whitlow,Herpes simplex,0
-0.433333333,50353,wound botulism,Botulism (and Infant botulism),0
-0.432432432,2789,parasitic protozoa infectious disease,Heartland virus disease,0
-0.428571429,50340,opportunistic bacterial infectious disease,Acinetobacter infections,0
-0.428571429,10035,asymptomatic neurosyphilis,Lymphocytic choriomeningitis,0
-0.428571429,10371,yaws,Myiasis,0
-0.428571429,8771,contagious pustular dermatitis,Hantavirus Pulmonary Syndrome (HPS),0
-0.423076923,14019,Brucella canis brucellosis,Brucellosis,0
-0.421052632,10887,lepromatous leprosy,Leptospirosis,0
-0.421052632,9856,congenital syphilis,Syphilis,0
-0.416666667,50292,primary systemic mycosis,Actinomycosis,0
-0.416666667,13775,plantar wart,Anthrax,0
-0.416666667,9786,bulbar polio,Tularemia,0
-0.413793103,12919,Plasmodium ovale malaria,Clostridium difficile colitis,0
-0.413793103,14324,Plasmodium malariae malaria,Clostridium difficile colitis,0
-0.413793103,404,gastrointestinal tuberculosis,Tuberculosis,0
-0.411764706,14374,norwegian scabies,Scabies,0
-0.409090909,50153,pulmonary aspergilloma,Aspergillosis,0
-0.407407407,50117,disease by infectious agent,Prevotella infection,0
-0.404761905,4110,parasitic ectoparasitic infectious disease,Acinetobacter infections,0
-0.4,50047,Flinders Island spotted fever,Rocky Mountain spotted fever (RMSF),0
-0.4,50051,Rickettsia parkeri spotted fever,Rocky Mountain spotted fever (RMSF),0
-0.4,50068,pestis minor,West Nile Fever,0
-0.4,50352,foodborne botulism,Botulism (and Infant botulism),0
-0.4,50513,spinal polio,Viral pneumonia,0
-0.4,11302,cercarial dermatitis,Keratitis,0
-0.4,4492,avian influenza,Viral pneumonia,0
-0.392857143,14457,Brucella abortus brucellosis,Bartonellosis,0
-0.391304348,50035,African tick-bite fever,Relapsing fever,0
-0.388888889,50160,inhalation anthrax,Anthrax,0
-0.388888889,1023,borderline leprosy,Leprosy,0
-0.387096774,14115,toxic shock syndrome,Hemolytic-uremic syndrome (HUS),0
-0.384615385,50061,erysipeloid,Cysticercosis,0
-0.384615385,10567,late yaws,Balantidiasis,0
-0.384615385,9153,variola minor,Fasciolasis,0
-0.380952381,50125,dengue shock syndrome,Dengue fever,0
-0.380952381,50291,parasitic Ichthyosporea infectious disease,Acinetobacter infections,0
-0.380952381,883,parasitic helminthiasis infectious disease,Heartland virus disease,0
-0.380952381,96,staphyloenterotoxemia,Campylobacteriosis,0
-0.379310345,50491,meningovascular neurosyphilis,Meningococcal disease,0
-0.379310345,50516,O&apos;nyong&apos;nyong fever,Relapsing fever,0
-0.379310345,12978,Plasmodium vivax malaria,Clostridium difficile colitis,0
-0.375,13226,oculoglandular tularemia,Tularemia,0
-0.375,13386,gastrointestinal anthrax,Astrovirus infection,0
-0.375,3298,vaccinia,Malaria,0
-0.375,401,multidrug-resistant tuberculosis,Tuberculosis,0
-0.371428571,2755,Mycobacterium avium complex disease,Bacterial pneumonia,0
-0.368421053,50143,asymptomatic dengue,Bubonic plague,0
-0.368421053,14512,candidal paronychia,Viral pneumonia,0
-0.363636364,13078,eumycotic mycetoma,Pneumococcal infection,0
-0.363636364,2058,chronic mucocutaneous candidiasis,Chromoblastomycosis,0
-0.363636364,9988,tertiary neurosyphilis,Bartonellosis,0
-0.36,50488,early congenital syphilis,Bartonellosis,0
-0.36,11990,ulceroglandular tularemia,Tularemia,0
-0.358974359,11337,Lemierre&apos;s syndrome,Middle East respiratory syndrome (MERS),0
-0.357142857,50490,parenchymatous neurosyphilis,Bartonellosis,0
-0.357142857,10112,sleeping sickness,Free-living amebic infection,0
-0.357142857,5362,focal epithelial hyperplasia,Bacterial pneumonia,0
-0.357142857,8704,genital herpes,Dengue fever,0
-0.357142857,9123,eczema herpeticum,Venezuelan hemorrhagic fever,0
-0.35483871,14456,Brucella melitensis brucellosis,Bartonellosis,0
-0.352941176,50514,bulbospinal polio,Babesiosis,0
-0.347826087,9880,cardiovascular syphilis,Fasciolasis,0
-0.346153846,13801,pharyngoconjunctival fever,Dengue fever,0
-0.346153846,14239,gastrointestinal tularemia,Astrovirus infection,0
-0.344827586,14067,Plasmodium falciparum malaria,Clostridium difficile colitis,0
-0.34375,50211,swine influenza,Haemophilus influenzae infection,0
-0.342857143,10039,late congenital syphilis,Subacute sclerosing panencephalitis,0
-0.342857143,1638,central nervous system tuberculosis,Tuberculosis,0
-0.333333333,50059,oropharyngeal anthrax,Anthrax,0
-0.333333333,50508,variola major,Fasciolopsiasis,0
-0.333333333,10250,louping ill,Relapsing fever,0
-0.333333333,10568,early yaws,Ehrlichiosis,0
-0.333333333,11168,anogenital venereal wart,Bacterial pneumonia,0
-0.333333333,11851,indeterminate leprosy,Leprosy,0
-0.333333333,11976,botulism,Buruli ulcer,0
-0.333333333,13166,allergic bronchopulmonary aspergillosis,Aspergillosis,0
-0.333333333,13800,inclusion conjunctivitis,Angiostrongyliasis,0
-0.333333333,13819,lymphogranuloma venereum,Typhoid fever,0
-0.333333333,321,tropical spastic paraparesis,Lymphatic filariasis (Elephantiasis),0
-0.333333333,9159,gas gangrene,Glanders,0
-0.318181818,50201,nephropathia epidemica,Diphtheria,0
-0.3125,8729,milker&apos;s nodule,Pediculosis corporis (Body lice),0
-0.294117647,11165,common wart,Carrion's disease,0
-0.285714286,13431,bejel,Measles,0
-0.282051282,8484,maple bark strippers&apos; lung,Middle East respiratory syndrome (MERS),0
+0.4722222222222222,0050338,Acinetobacter infections,primary bacterial infectious disease
+1.0,8478,Actinomycosis,actinomycosis
+0.3529411764705882,0050597,African sleeping sickness (African trypanosomiasis),intestinal schistosomiasis
+0.8292682926829268,635,AIDS (Acquired immunodeficiency syndrome),acquired immunodeficiency syndrome
+1.0,9181,Amebiasis,amebiasis
+0.6923076923076923,9965,Anaplasmosis,toxoplasmosis
+1.0,0050256,Angiostrongyliasis,angiostrongyliasis
+1.0,7033,Anisakiasis,anisakiasis
+0.4666666666666667,7427,Anthrax,anthrax disease
+0.368421052631579,2755,Arcanobacterium haemolyticum infection,Mycobacterium avium complex disease
+1.0,0050194,Argentine hemorrhagic fever,Argentine hemorrhagic fever
+1.0,456,Ascariasis,ascariasis
+1.0,13564,Aspergillosis,aspergillosis
+0.48,13760,Astrovirus infection,Pthirus pubis infestation
+1.0,9643,Babesiosis,babesiosis
+0.48,13760,Bacillus cereus infection,Pthirus pubis infestation
+0.5357142857142857,104,Bacterial pneumonia,bacterial infectious disease
+0.5,104,Bacterial vaginosis,bacterial infectious disease
+1.0,12386,Balantidiasis,balantidiasis
+1.0,11102,Bartonellosis,bartonellosis
+0.5652173913043479,0050259,Baylisascaris infection,baylisascariasis
+0.48,13760,BK virus infection,Pthirus pubis infestation
+1.0,12711,Black piedra,black piedra
+0.7857142857142857,12663,Blastocystosis,blastomycosis
+1.0,12663,Blastomycosis,blastomycosis
+1.0,0050195,Bolivian hemorrhagic fever,Bolivian hemorrhagic fever
+0.5,0050354,Botulism (and Infant botulism),infant botulism
+1.0,11077,Brucellosis,brucellosis
+1.0,10773,Bubonic plague,bubonic plague
+0.6,0050456,Buruli ulcer,Buruli ulcer disease
+0.3829787234042553,1398,Calicivirus infection (Norovirus and Sapovirus),parasitic infectious disease
+1.0,13622,Campylobacteriosis,campylobacteriosis
+0.34375,0050256,Candidiasis (Moniliasis; Thrush),angiostrongyliasis
+0.7272727272727273,0050398,Carrion's disease,Carrion&apos;s disease
+1.0,11258,Cat-scratch disease,cat-scratch disease
+0.46153846153846156,12474,Cellulitis,capillariasis
+0.36585365853658536,0050597,Chagas Disease (American trypanosomiasis),intestinal schistosomiasis
+1.0,13778,Chancroid,chancroid
+1.0,8659,Chickenpox,chickenpox
+1.0,0050012,Chikungunya,chikungunya
+1.0,11263,Chlamydia,chlamydia
+1.0,1498,Cholera,cholera
+1.0,1562,Chromoblastomycosis,chromoblastomycosis
+0.625,8478,Chytridiomycosis,actinomycosis
+0.4137931034482759,12919,Clostridium difficile colitis,Plasmodium ovale malaria
+1.0,13450,Coccidioidomycosis,coccidioidomycosis
+0.76,4885,Colorado tick fever (CTF),Colorado tick fever
+0.375,0050339,Common cold (Acute viral rhinopharyngitis; Acute coryza),commensal bacterial infectious disease
+0.375,11258,Creutzfeldt¨CJakob disease (CJD),cat-scratch disease
+0.8157894736842105,12287,Crimean-Congo hemorrhagic fever (CCHF),Crimean-Congo hemorrhagic fever
+1.0,12053,Cryptococcosis,cryptococcosis
+1.0,1733,Cryptosporidiosis,cryptosporidiosis
+0.48275862068965514,0080161,Cutaneous larva migrans (CLM),cutaneous candidiasis
+1.0,10079,Cysticercosis,cysticercosis
+0.6,2366,Dengue fever,West Nile fever
+1.0,946,Dientamoebiasis,dientamoebiasis
+1.0,11405,Diphtheria,diphtheria
+1.0,10075,Diphyllobothriasis,diphyllobothriasis
+1.0,14418,Dracunculiasis,dracunculiasis
+1.0,4325,Ebola hemorrhagic fever,Ebola hemorrhagic fever
+1.0,1496,Echinococcosis,echinococcosis
+1.0,10242,Ehrlichiosis,ehrlichiosis
+0.375,13760,Enterobiasis (Pinworm infection),Pthirus pubis infestation
+0.48,13760,Enterovirus infection,Pthirus pubis infestation
+1.0,0050480,Epidemic typhus,epidemic typhus
+0.5555555555555556,0050097,Erythema infectiosum (Fifth disease),ectothrix infectious disease
+0.46875,0050495,Exanthem subitum (Sixth disease),exanthema subitum
+0.9166666666666666,885,Fasciolasis,fascioliasis
+1.0,888,Fasciolopsiasis,fasciolopsiasis
+0.3157894736842105,0050339,Fatal familial insomnia (FFI),commensal bacterial infectious disease
+1.0,1080,Filariasis,filariasis
+0.31707317073170727,0050117,Food poisoning by Clostridium perfringens,disease by infectious agent
+0.3939393939393939,0050246,Free-living amebic infection,granulomatous amebic encephalitis
+0.368421052631579,0050133,Gas gangrene (Clostridial myonecrosis),superficial mycosis
+0.3555555555555555,0050125,Gerstmann-Str?ussler-Scheinker syndrome (GSS),dengue shock syndrome
+1.0,10718,Giardiasis,giardiasis
+1.0,13444,Glanders,glanders
+0.8,11379,Gnathostomiasis,gnathomiasis
+1.0,7551,Gonorrhea,gonorrhea
+0.5757575757575757,9113,Granuloma inguinale (Donovanosis),granuloma inguinale
+0.3571428571428571,0050340,Group A streptococcal infection,opportunistic bacterial infectious disease
+0.3571428571428571,0050340,Group B streptococcal infection,opportunistic bacterial infectious disease
+0.40625,13760,Haemophilus influenzae infection,Pthirus pubis infestation
+0.8,10881,"Hand, foot and mouth disease (HFMD)","hand, foot and mouth disease"
+0.8285714285714285,14472,Hantavirus Pulmonary Syndrome (HPS),hantavirus pulmonary syndrome
+0.5652173913043479,2934,Heartland virus disease,aleutian mink disease
+0.42105263157894735,5513,Helicobacter pylori infection,Pediculus humanus corporis infestation
+0.3870967741935484,14115,Hemolytic-uremic syndrome (HUS),toxic shock syndrome
+0.8409090909090909,11266,Hemorrhagic fever with renal syndrome (HFRS),hemorrhagic fever with renal syndrome
+1.0,12549,Hepatitis A,hepatitis A
+1.0,2043,Hepatitis B,hepatitis B
+1.0,1883,Hepatitis C,hepatitis C
+1.0,2047,Hepatitis D,hepatitis D
+1.0,4411,Hepatitis E,hepatitis E
+1.0,8566,Herpes simplex,herpes simplex
+1.0,1731,Histoplasmosis,histoplasmosis
+0.4482758620689655,12927,Hookworm infection,screw worm infectious disease
+0.4864864864864865,5501,Human bocavirus infection,Pediculus humanus capitis infestation
+0.7142857142857143,0050026,Human ewingii ehrlichiosis,human monocytic ehrlichiosis
+0.8378378378378378,0050025,Human granulocytic anaplasmosis (HGA),human granulocytic anaplasmosis
+0.4893617021276596,526,Human metapneumovirus infection,human immunodeficiency virus infectious disease
+1.0,0050026,Human monocytic ehrlichiosis,human monocytic ehrlichiosis
+0.36170212765957444,526,Human papillomavirus (HPV) infection,human immunodeficiency virus infectious disease
+0.5106382978723405,526,Human parainfluenza virus infection,human immunodeficiency virus infectious disease
+1.0,10074,Hymenolepiasis,hymenolepiasis
+0.47058823529411764,8568,Epstein¨CBarr virus infectious mononucleosis (Mono),infectious mononucleosis
+0.6,8469,Influenza (flu),influenza
+0.7142857142857143,12750,Isosporiasis,cyclosporiasis
+0.6470588235294117,2929,Kawasaki disease,Newcastle disease
+0.6363636363636364,12549,Keratitis,hepatitis A
+0.2727272727272727,0050012,Kuru,chikungunya
+1.0,9537,Lassa fever,Lassa fever
+0.4864864864864865,10457,Legionellosis (Legionnaires' disease),Legionnaires&apos; disease
+0.4482758620689655,0050050,Legionellosis (Pontiac fever),Japanese spotted fever
+1.0,9065,Leishmaniasis,leishmaniasis
+1.0,1024,Leprosy,leprosy
+1.0,2297,Leptospirosis,leptospirosis
+1.0,11573,Listeriosis,listeriosis
+0.3870967741935484,11729,Lyme disease (Lyme borreliosis),Lyme disease
+0.5833333333333333,12211,Lymphatic filariasis (Elephantiasis),filarial elephantiasis
+1.0,12155,Lymphocytic choriomeningitis,lymphocytic choriomeningitis
+1.0,12365,Malaria,malaria
+1.0,8622,Measles,measles
+0.5897435897435898,2945,Middle East respiratory syndrome (MERS),severe acute respiratory syndrome
+0.4375,0050097,Melioidosis (Whitmore's disease),ectothrix infectious disease
+0.5454545454545454,931,Meningitis,monieziasis
+0.5238095238095238,1022,Meningococcal disease,pinta disease
+1.0,884,Metagonimiasis,metagonimiasis
+1.0,4271,Microsporidiosis,microsporidiosis
+0.8076923076923077,8867,Molluscum contagiosum (MC),molluscum contagiosum
+1.0,3292,Monkeypox,monkeypox
+1.0,10264,Mumps,mumps
+0.4666666666666667,0050480,Murine typhus (Endemic typhus),epidemic typhus
+0.4,9965,Mycoplasma pneumonia,toxoplasmosis
+1.0,11080,Myiasis,myiasis
+0.36170212765957444,13521,Neonatal conjunctivitis (Ophthalmia neonatorum),tetanus neonatorum
+1.0,2312,Nocardiosis,nocardiosis
+0.4375,11678,Onchocerciasis (River blindness),onchocerciasis
+1.0,13768,Opisthorchiasis,opisthorchiasis
+0.41509433962264153,12662,Paracoccidioidomycosis (South American blastomycosis),paracoccidioidomycosis
+1.0,10699,Paragonimiasis,paragonimiasis
+1.0,11055,Pasteurellosis,pasteurellosis
+0.5135135135135135,5501,Pediculosis capitis (Head lice),Pediculus humanus capitis infestation
+0.5,5513,Pediculosis corporis (Body lice),Pediculus humanus corporis infestation
+0.36585365853658536,0050246,"Pediculosis pubis (Pubic lice, Crab lice)",granulomatous amebic encephalitis
+0.3939393939393939,1398,Pelvic inflammatory disease (PID),parasitic infectious disease
+0.5641025641025641,11750,Pertussis (Whooping cough),Bordetella parapertussis whooping cough
+1.0,3482,Plague,plague
+0.40909090909090906,10398,Pneumococcal infection,pneumonic plague
+0.4285714285714286,11339,Pneumocystis pneumonia (PCP),pneumocystosis
+0.5625,10398,Pneumonia,pneumonic plague
+1.0,4953,Poliomyelitis,poliomyelitis
+0.44999999999999996,11079,Prevotella infection,leech infestation
+0.8292682926829268,0050242,Primary amoebic meningoencephalitis (PAM),primary amebic meningoencephalitis
+1.0,643,Progressive multifocal leukoencephalopathy,progressive multifocal leukoencephalopathy
+0.5384615384615384,10079,Psittacosis,cysticercosis
+1.0,11100,Q fever,Q fever
+1.0,11260,Rabies,rabies
+1.0,13034,Relapsing fever,relapsing fever
+0.782608695652174,1273,Respiratory syncytial virus infection,respiratory syncytial virus infectious disease
+1.0,2409,Rhinosporidiosis,rhinosporidiosis
+0.52,13760,Rhinovirus infection,Pthirus pubis infestation
+1.0,11103,Rickettsialpox,rickettsialpox
+0.7391304347826086,1328,Rift Valley fever (RVF),Rift Valley fever
+0.8,0050052,Rocky Mountain spotted fever (RMSF),Rocky Mountain spotted fever
+0.48,13760,Rotavirus infection,Pthirus pubis infestation
+1.0,8781,Rubella,rubella
+0.7692307692307692,11102,Salmonellosis,bartonellosis
+0.825,2945,SARS (Severe Acute Respiratory Syndrome),severe acute respiratory syndrome
+1.0,8295,Scabies,scabies
+1.0,1395,Schistosomiasis,schistosomiasis
+0.5,1079,Sepsis,setariasis
+0.33333333333333337,12385,Shigellosis (Bacillary dysentery),shigellosis
+0.5833333333333333,9210,Shingles (Herpes zoster),geniculate herpes zoster
+0.4444444444444444,8736,Smallpox (Variola),smallpox
+1.0,14484,Sporotrichosis,sporotrichosis
+1.0,10955,Strongyloidiasis,strongyloidiasis
+1.0,8970,Subacute sclerosing panencephalitis,subacute sclerosing panencephalitis
+1.0,4166,Syphilis,syphilis
+1.0,0050596,Taeniasis,taeniasis
+0.5,13521,Tetanus (Lockjaw),tetanus neonatorum
+0.4285714285714286,0050096,Tinea barbae (Barber's itch),tinea barbae
+0.3513513513513513,4337,Tinea capitis (Ringworm of the Scalp),tinea capitis
+0.3783783783783784,12179,Tinea corporis (Ringworm of the Body),tinea corporis
+0.5,11917,Tinea cruris (Jock itch),tinea cruris
+1.0,8912,Tinea nigra,tinea nigra
+0.3793103448275862,12403,Tinea pedis (Athlete¡¯s foot),tinea pedis
+0.4482758620689655,13074,Tinea unguium (Onychomycosis),tinea unguium
+0.525,9060,Tinea versicolor (Pityriasis versicolor),pityriasis versicolor
+0.31707317073170727,8771,Toxocariasis (Ocular Larva Migrans (OLM)),contagious pustular dermatitis
+0.3023255813953488,9146,Toxocariasis (Visceral Larva Migrans (VLM)),visceral leishmaniasis
+1.0,11265,Trachoma,trachoma
+1.0,9965,Toxoplasmosis,toxoplasmosis
+1.0,9784,Trichinosis,trichinosis
+1.0,1947,Trichomoniasis,trichomoniasis
+0.39473684210526316,5513,Trichuriasis (Whipworm infection),Pediculus humanus corporis infestation
+1.0,399,Tuberculosis,tuberculosis
+1.0,2123,Tularemia,tularemia
+1.0,13258,Typhoid fever,typhoid fever
+0.7692307692307692,13258,Typhus fever,typhoid fever
+0.7058823529411764,1328,Valley fever,Rift Valley fever
+1.0,0050196,Venezuelan hemorrhagic fever,Venezuelan hemorrhagic fever
+0.40740740740740744,13760,Vibrio vulnificus infection,Pthirus pubis infestation
+0.3939393939393939,4986,Vibrio parahaemolyticus enteritis,nonparalytic poliomyelitis
+0.45833333333333337,934,Viral pneumonia,viral infectious disease
+1.0,2366,West Nile Fever,West Nile fever
+0.4444444444444444,13902,White piedra (Tinea blanca),white piedra
+0.5833333333333333,10242,Yersiniosis,ehrlichiosis
+1.0,9682,Yellow fever,yellow fever
+0.7272727272727273,13026,Zygomycosis,lobomycosis

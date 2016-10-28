@@ -26,16 +26,14 @@ def cal(db,owl):
 
     results = []
 
-    for words_1 in owl:
+    for word1 in db:
         max_ = (0,0,'word1','word2')
 
-        id = words_1[0]
-        word1 = words_1[1]
         word1_s = word1.lower()
-        print words_1[0]
 
-
-        for word2 in db:
+        for words_2 in owl:
+            id = words_2[0]
+            word2 = words_2[1]
             word2_s = word2.lower()
 
             score = calEditDistance(word1_s,word2_s)
@@ -48,7 +46,7 @@ def cal(db,owl):
 
 
 if __name__ == '__main__':
-    db_filepath = 'sy_diseaseName.csv'
+    db_filepath = 'new_diseaseName.csv'
     owl_filepath = 'doid_name_pairs.csv'
     results_filepath = 'edit_score_min_results.csv'
 
