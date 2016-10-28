@@ -1,0 +1,436 @@
+chikungunya
+human granulocytic anaplasmosis
+human monocytic ehrlichiosis
+African tick-bite fever
+Astrakhan spotted fever
+Indian tick typhus
+Israeli tick typhus
+Far Eastern spotted fever
+Flinders Island spotted fever
+Japanese spotted fever
+Rickettsia parkeri spotted fever
+Rocky Mountain spotted fever
+oropharyngeal anthrax
+erysipeloid
+pestis minor
+adiaspiromycosis
+invasive aspergillosis
+tinea barbae
+ectothrix infectious disease
+endothrix infectious disease
+tinea imbricata
+disease by infectious agent
+La Crosse encephalitis
+dengue shock syndrome
+superficial mycosis
+cutaneous mycosis
+subcutaneous mycosis
+systemic mycosis
+intestinal botulism
+asymptomatic dengue
+Pontiac fever
+pulmonary aspergilloma
+inhalation anthrax
+tuberculous salpingitis
+Kunjin encephalitis
+tick-borne encephalitis
+Powassan encephalitis
+Argentine hemorrhagic fever
+Bolivian hemorrhagic fever
+Venezuelan hemorrhagic fever
+Brazilian hemorrhagic fever
+Chapare hemorrhagic fever
+Whitewater Arroyo hemorrhagic fever
+Korean hemorrhagic fever
+nephropathia epidemica
+lujo hemorrhagic fever
+swine influenza
+polycystic echinococcosis
+primary amebic meningoencephalitis
+granulomatous amebic encephalitis
+philophthalmiasis
+coenurosis
+mesocestoidiasis
+acanthocephaliasis
+angiostrongyliasis
+baylisascariasis
+dioctophymiasis
+thelaziasis
+tungiasis
+ophthalmomyiasis
+basidiobolomycosis
+conidiobolomycosis
+penicilliosis
+fusariosis
+trichosporonosis
+parasitic Ichthyosporea infectious disease
+primary systemic mycosis
+Alkhurma hemorrhagic fever
+primary bacterial infectious disease
+commensal bacterial infectious disease
+opportunistic bacterial infectious disease
+foodborne botulism
+wound botulism
+infant botulism
+glandular tularemia
+typhoidal tularemia
+Carrion&apos;s disease
+Buruli ulcer disease
+epidemic typhus
+endemic typhus
+aneruptive fever
+sennetsu fever
+early congenital syphilis
+parenchymatous neurosyphilis
+meningovascular neurosyphilis
+exanthema subitum
+variola major
+spinal polio
+bulbospinal polio
+paralytic poliomyelitis
+O&apos;nyong&apos;nyong fever
+Barmah Forest virus disease
+Ross River fever
+Oropouche fever
+Balkan hemorrhagic fever
+gummatous syphilis
+taeniasis
+intestinal schistosomiasis
+extrapulmonary tuberculosis
+abdominal tuberculosis
+bacillary angiomatosis
+Zika fever
+cardiac tuberculosis
+cutaneous candidiasis
+tabes dorsalis
+asymptomatic neurosyphilis
+late congenital syphilis
+hymenolepiasis
+diphyllobothriasis
+cysticercosis
+sparganosis
+sleeping sickness
+trypanosomiasis
+pinta disease
+borderline leprosy
+leprosy
+ehrlichiosis
+tuberculoid leprosy
+louping ill
+mumps
+yaws
+pneumonic plague
+bacterial infectious disease
+Legionnaires&apos; disease
+legionellosis
+late yaws
+early yaws
+pleural tuberculosis
+paragonimiasis
+giardiasis
+bubonic plague
+Queensland tick typhus
+setariasis
+filariasis
+mansonelliasis
+dirofilariasis
+Eastern equine encephalitis
+Murray Valley encephalitis
+Western equine encephalitis
+Japanese encephalitis
+St. Louis encephalitis
+hand, foot and mouth disease
+epidemic pleurodynia
+herpangina
+lepromatous leprosy
+Siberian tick typhus
+strongyloidiasis
+pasteurellosis
+Brucella suis brucellosis
+brucellosis
+leech infestation
+myiasis
+Q fever
+trench fever
+bartonellosis
+rickettsialpox
+spotted fever
+pertussis
+common wart
+anogenital venereal wart
+allescheriosis
+acute hemorrhagic conjunctivitis
+Brill-Zinsser disease
+typhus
+cat-scratch disease
+rabies
+ornithosis
+chlamydia
+trachoma
+hemorrhagic fever with renal syndrome
+tick paralysis
+cercarial dermatitis
+African histoplasmosis
+Kyasanur forest disease
+rhinoscleroma
+Lemierre&apos;s syndrome
+tetanus
+pneumocystosis
+Phlebotomus fever
+gnathomiasis
+diphtheria
+listeriosis
+onchocerciasis
+Lyme disease
+Bordetella parapertussis whooping cough
+indeterminate leprosy
+tinea cruris
+botulism
+ulceroglandular tularemia
+cryptococcosis
+sodoku disease
+Chagas disease
+alveolar echinococcosis
+lymphocytic choriomeningitis
+fascioloidiasis
+tinea corporis
+echinostomiasis
+dicrocoeliasis
+dengue disease
+dengue hemorrhagic fever
+filarial elephantiasis
+Crimean-Congo hemorrhagic fever
+malaria
+shigellosis
+balantidiasis
+tinea pedis
+capillariasis
+tuberculous epididymitis
+trichuriasis
+trichostrongylosis
+hepatitis A
+trichostrongyloidiasis
+paracoccidioidomycosis
+blastomycosis
+black piedra
+respiratory syncytial virus infectious disease
+cyclosporiasis
+ancylostomiasis
+Plasmodium ovale malaria
+hypodermyiasis
+screw worm infectious disease
+Plasmodium vivax malaria
+lobomycosis
+relapsing fever
+louse-borne relapsing fever
+tick-borne relapsing fever
+tinea unguium
+eumycotic mycetoma
+esophageal candidiasis
+allergic bronchopulmonary aspergillosis
+oculoglandular tularemia
+Haverhill fever
+typhoid fever
+Rift Valley fever
+intestinal tuberculosis
+congenital toxoplasmosis
+tinea profunda
+tinea manuum
+scrub typhus
+gastrointestinal anthrax
+bejel
+glanders
+coccidioidomycosis
+tetanus neonatorum
+loiasis
+aspergillosis
+neuroaspergillosis
+campylobacteriosis
+neuroschistosomiasis
+Pthirus pubis infestation
+clonorchiasis
+opisthorchiasis
+plantar wart
+chancroid
+inclusion conjunctivitis
+pharyngoconjunctival fever
+lymphogranuloma venereum
+white piedra
+urinary schistosomiasis
+schistosomiasis
+parasitic infectious disease
+Brucella canis brucellosis
+phaeohyphomycosis
+Plasmodium falciparum malaria
+blackwater fever
+cerebral malaria
+boutonneuse fever
+toxic shock syndrome
+gastrointestinal tularemia
+oral candidiasis
+Plasmodium malariae malaria
+mixed malaria
+norwegian scabies
+dracunculiasis
+dipetalonemiasis
+Brucella melitensis brucellosis
+Brucella abortus brucellosis
+hantavirus pulmonary syndrome
+sporotrichosis
+candidal paronychia
+cystic echinococcosis
+echinococcosis
+cholera
+candidiasis
+chromoblastomycosis
+dermatomycosis
+fungal infectious disease
+central nervous system tuberculosis
+skeletal tuberculosis
+histoplasmosis
+cryptosporidiosis
+American histoplasmosis
+hepatitis C
+trichomoniasis
+hepatitis B
+hepatitis D
+chronic mucocutaneous candidiasis
+cystoisosporiasis
+coccidiosis
+pneumonic tularemia
+tularemia
+tuberculous oophoritis
+urogenital tuberculosis
+vulvovaginal candidiasis
+leptospirosis
+nocardiosis
+West Nile encephalitis
+West Nile fever
+rhinosporidiosis
+opportunistic mycosis
+Mycobacterium avium complex disease
+parasitic protozoa infectious disease
+necatoriasis
+geotrichosis
+Newcastle disease
+aleutian mink disease
+severe acute respiratory syndrome
+pulmonary tuberculosis
+paratyphoid fever
+toxascariasis
+ascaridiasis
+tropical spastic paraparesis
+monkeypox
+vaccinia
+haemonchiasis
+septicemic plague
+plague
+theileriasis
+oesophagostomiasis
+ostertagiasis
+tuberculosis
+multidrug-resistant tuberculosis
+oral tuberculosis
+gastrointestinal tuberculosis
+hepatic tuberculosis
+tick infestation
+parasitic ectoparasitic infectious disease
+primary syphilis
+secondary syphilis
+syphilis
+encephalitozoonosis
+microsporidiosis
+Ebola hemorrhagic fever
+Marburg hemorrhagic fever
+tinea favosa
+tinea capitis
+hepatitis E
+avian influenza
+ascariasis
+Colorado tick fever
+lymph node tuberculosis
+postpoliomyelitis syndrome
+poliomyelitis
+pericardial tuberculosis
+actinobacillosis
+nonparalytic poliomyelitis
+melioidosis
+borna disease
+human immunodeficiency virus infectious disease
+focal epithelial hyperplasia
+Pediculus humanus capitis infestation
+lice infestation
+Pediculus humanus corporis infestation
+acquired immunodeficiency syndrome
+progressive multifocal leukoencephalopathy
+anisakiasis
+esophageal tuberculosis
+cutaneous anthrax
+anthrax disease
+enterobiasis
+bladder tuberculosis
+gonorrhea
+mite infestation
+tertiary syphilis
+ureter tuberculosis
+scabies
+trombiculiasis
+influenza
+actinomycosis
+maple bark strippers&apos; lung
+herpes zoster
+herpes simplex
+infectious mononucleosis
+herpetic whitlow
+measles
+chickenpox
+genital herpes
+milker&apos;s nodule
+smallpox
+contagious pustular dermatitis
+rubella
+heterophyiasis
+parasitic helminthiasis infectious disease
+metagonimiasis
+fascioliasis
+molluscum contagiosum
+fasciolopsiasis
+tinea nigra
+dermatophytosis
+cowpox
+subacute sclerosing panencephalitis
+pityriasis versicolor
+Ritter&apos;s disease
+leishmaniasis
+cutaneous leishmaniasis
+granuloma inguinale
+eczema herpeticum
+visceral leishmaniasis
+variola minor
+mucocutaneous leishmaniasis
+gas gangrene
+amebiasis
+geniculate herpes zoster
+splenic tuberculosis
+monieziasis
+viral infectious disease
+dientamoebiasis
+latent syphilis
+Lassa fever
+neonatal candidiasis
+Venezuelan equine encephalitis
+staphyloenterotoxemia
+sarcocystosis
+babesiosis
+yellow fever
+renal tuberculosis
+trichinosis
+bulbar polio
+toxocariasis
+tuberculous peritonitis
+congenital syphilis
+miliary tuberculosis
+cardiovascular syphilis
+Omsk hemorrhagic fever
+toxoplasmosis
+tertiary neurosyphilis
