@@ -22,7 +22,7 @@ def add_entity(ontology,entitys):
     insert_index = get_insert_index(ontology)
 
     # 需要改
-    father = 'symptom'
+    father = 'bacteria'
 
     line1 = '    <owl:Class rdf:about="&obo;doid.owl#%s"/>\n' % father
     line2 = '\n'

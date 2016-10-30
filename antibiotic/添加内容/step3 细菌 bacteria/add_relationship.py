@@ -37,7 +37,7 @@ def add_relationship(ontology,dict,entity):
 
         elif line_end and flag:
             # 需要改
-            father = 'has_symptom'
+            father = 'caused_by'
 
             for relation in relationships:
                 if len(relation) < 1:

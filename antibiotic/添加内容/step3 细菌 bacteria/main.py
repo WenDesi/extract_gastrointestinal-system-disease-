@@ -54,16 +54,16 @@ def build_relation_dict(relation_pairs):
 
 if __name__ == '__main__':
     # 需要改
-    full_ontology_filepath = u'step2.owl'
-    new_ontology_filepath = u'step2_ok.owl'
+    full_ontology_filepath = u'step3.owl'
+    new_ontology_filepath = u'step3_ok.owl'
     ontology = read_ontology(full_ontology_filepath)
 
     # 需要改
-    entity_filepath = 'cs.csv'
+    entity_filepath = 'bacteria.csv'
     entity = map(lambda x:x[0], read_csv(entity_filepath))
 
     # 需要改
-    relation_filepath = 'disease_cs_relation.csv'
+    relation_filepath = 'disease_bacteria_relation.csv'
     relation = build_relation_dict(read_csv(relation_filepath))
 
     ontology = add_entity(ontology,entity)
